@@ -1,1 +1,1 @@
-# StudentLabBookingSystem
+# StudentLabRegister
